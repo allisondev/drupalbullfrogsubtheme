@@ -1,0 +1,14 @@
+name = Puppet
+description = A great theme
+core = 7.x
+
+regions[sidebar_first] = Sidebar first
+regions[sidebar_second] = Sidebar second
+regions[content] = Content
+regions[header] = Header
+regions[footer] = Footer
+regions[help] = Help
+regions[highlighted] = Highlighted
+
+stylesheets[all][] = css/layout.css
+stylesheets[all][] = css/styles.css
